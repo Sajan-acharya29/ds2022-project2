@@ -5,7 +5,7 @@
 * Maebelle Faragallah
 * Julian Francis
 * Jonathan Freeman
-* Seun Kuyooro
+* Oluwaseun Kolade
 * Saujanya Thapaliya
 * Naomi Wright
 
@@ -45,8 +45,10 @@ Our goal is to reproduce visualizations that compares the data that we collected
 ### Final Notebook
 * Jonathan Freeman
 
+
 ### Summary of Files in the Repository 
 1. Technical Notebook- This is a clean and commented notebook of all of the data collected and analyzed with visualizations. 
 2. Final Notebook- This is the clean version of all of the data collected and analyzed. 
-3. Narrative Notebook- Has new visualizations with the reasons why the data is the way it is.
+3. Narrative Notebook- Has new visualizations with the reasons why the data is the way it is. Link: https://docs.google.com/presentation/d/1xS5Z-q8SW84ijaCH3fMxtZjyExZmYdJnJELwakcHkMk/edit#slide=id.p
+
 4. README.md file- It is an outline of the project with the goals and responsibilities each team member has.
